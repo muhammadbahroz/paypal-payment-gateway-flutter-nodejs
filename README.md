@@ -44,7 +44,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project is about how to add Paypal payment getway to any Flutter application using a Node.js on the server
+This project is about how to add Paypal payment getway to any Flutter application using Node.js on the server side.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
