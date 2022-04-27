@@ -8,11 +8,9 @@
   <p align="center">
     In this Project we will see how to integrate Paypal payment gateway using Flutter/Node.js!
     <br />
-    <a href="https://github.com/muhammadbahroz/paypal-payment-gateway-flutter-nodejs"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/muhammadbahroz/paypal-payment-gateway-flutter-nodejs/tree/master"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/muhammadbahroz/paypal-payment-gateway-flutter-nodejs">View Demo</a>
-    ·
     <a href="https://github.com/muhammadbahroz/paypal-payment-gateway-flutter-nodejs/issues">Report Bug</a>
     ·
     <a href="https://github.com/muhammadbahroz/paypal-payment-gateway-flutter-nodejs/issues">Request Feature</a>
